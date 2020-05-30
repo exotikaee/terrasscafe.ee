@@ -1,3 +1,0 @@
-# terrasscafe.ee
-
-test
