@@ -43,9 +43,6 @@
     IMPORT FILES
 -------------------------------------------------------------------*/
 
-@import url(owl.theme.css);
-@import url(owl.carousel.css);
-@import url(slick.css);
 @import url(flaticon.css);
 @import url(font-awesome.min.css);
 @import url(bootstrap-datetimepicker.css);
