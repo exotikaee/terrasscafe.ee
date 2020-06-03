@@ -58,22 +58,12 @@
 .offer-item .offer-price{
 	border: 1px solid #fdcb03;
 }
-.sf-team:hover .text-col{
-	background-color: #fdcb03;
-}
 .gal-item a::after{
 	background-color: rgba(253, 203, 3, 0.75);
 }
 .overlay i:hover{
 	border: 1px solid #fdcb03;
 	color: #fdcb03;
-}
-.blog-btn-v a{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
-}
-.blog-btn-v a:hover{
-	border:3px solid #ffdb4c;
 }
 .book-srv a{
 	background: #fdcb03;
@@ -97,30 +87,12 @@
 }
 
 
-.panel-pricing .panel-heading{
-	background: #fdcb03;
-}
-.panel-pricing{
-	border: 1px solid #fdcb03;
-}
 .panel-body p strong span{
 	color: #fdcb03;
 }
-.pricing-main .panel-footer a{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
-}
-.pricing-main .panel-footer a:hover{
-	border: 3px solid #ffdb4c;
-}
 
 
-.footer-news form a{
-	background: #fdcb03;
-}
-.footer-news form a:hover{
-	border: 2px dotted #fdcb03;
-}
+
 .footer-box-a h3{
 	color: #fdcb03;
 }

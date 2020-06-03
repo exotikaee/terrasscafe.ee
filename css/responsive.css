@@ -191,9 +191,7 @@
 		min-height: 800px !important;
 		background-size: inherit;
 	}
-	.team-main{
-		background-size: inherit;
-	}
+
 	.blog-main{
 		background-size: inherit;
 	}
@@ -280,18 +278,12 @@
 		background:#e75b1e url(../images/next_hover.png) no-repeat center;
 		background-position: 7px 4px;
 	}
-	.sf-team{
-		margin-bottom:20px;
-	}
+
 	.blog-img-box {
 		float: none;
 		width: 100%;
 	}
-	.pricing-main p{
-		padding:0px 15px;
-		margin-bottom:15px;
-	}
-	
+
 	.blog-dit{
 		width: 100%;
 		padding: 10px 2% 0 2%;
